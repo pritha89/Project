@@ -1,0 +1,21 @@
+
+
+input[type="text"] {
+    width: 260px;
+}
+
+.button {
+    background-color: rgb(143, 212, 0); /* Green */
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 12px;
+    font-family:Arial;
+    height: 30px;
+}
+
+

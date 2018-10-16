@@ -1,0 +1,25 @@
+.head_intro
+{
+    height:15%;
+    width:45%;
+    float: center;
+
+}
+
+.intro_img
+{
+    height:30%;
+    width:25%;
+    float: left;
+    margin-left: 5%;
+}
+
+.intro_text
+{
+    height:40%;
+    width:43%;
+    float: right;
+    margin-right:5%;
+   
+}
+

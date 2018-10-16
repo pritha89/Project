@@ -1,0 +1,299 @@
+.p
+{
+    color: red;
+}
+
+.main_container
+{
+    height: 1300px;
+    width:100%;
+    
+
+}
+
+.back_img
+{
+    background-image:url('http://localhost:8012/Project/MyCode/images/green.jpg');
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+    width: 95%;
+    height: 95%;
+    opacity: 1.0;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+
+.back_img_two
+{
+    background-image:url('http://localhost:8012/Project/MyCode/images/background_report.jpg');
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+    width: 98%;
+    height: 95%;
+    opacity: 1.0;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+
+.back_img_three
+{
+    background-image:url('http://localhost:8012/Project/MyCode/images/background_new_control.jpg');
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+    width: 98%;
+    height: 95%;
+    opacity: 1.0;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+
+
+.back_img_four
+{
+    background-image:url('http://localhost:8012/Project/MyCode/images/background_catalogue.jpg');
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+    width: 98%;
+    height: 98%;
+    opacity: 1.0;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+.back_img_five
+{
+    background-image:url('http://localhost:8012/Project/MyCode/images/background_unfinished.jpg');
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+    width: 98%;
+    height: 98%;
+    opacity: 1.0;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+
+.back_img_six
+{
+    background-image:url('http://localhost:8012/Project/MyCode/images/background_user.jpg');
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+    width: 98%;
+    height: 98%;
+    opacity: 1.0;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+
+.back_img_seven
+{
+    background-image:url('http://localhost:8012/Project/MyCode/images/background_delete.jpg');
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+    width: 98%;
+    height: 98%;
+    opacity: 1.0;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+
+.back_img_eight
+{
+    background-image:url('http://localhost:8012/Project/MyCode/images/background_reports.jpg');
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+    width: 98%;
+    height: 98%;
+    opacity: 1.0;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+
+
+.header_main
+{
+    height: 35px;
+    width:1300px;
+   background-color: rgb(255, 255, 255);
+   float: center;  
+}
+
+.header_main_image
+{
+    height: 35px;
+    width: 10%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+
+.header_main_admin
+{
+    height: 35px;
+    width: 40%;
+    
+    float:right;
+    color: red;
+   
+}
+
+.control_menu
+{
+  height: 35px;
+  width:90%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  margin-left: 4%;
+
+}
+
+.main_bottom
+{
+    height: 1200px;
+    width: 100%;
+    float: center;
+    background-color: rgb(255, 255, 255);
+}
+.control_buttom_right_excel
+{
+    height: 40px;
+    width: 100px;
+    float: right;
+    border-radius: 25px;
+    
+
+}
+.control_buttom_new
+{
+    height: 98%;
+    width:97%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    float:justify;
+
+   
+}
+
+.new_control_form_now
+{
+    
+    background-color:rgba(255, 255, 255,0.3);
+    box-shadow:  5px 10px 10px 10px rgb(156, 156, 154) ;
+    border-radius: 25px;
+    padding: 15px; 
+    width: 90%;
+    height:80%; 
+    margin-top: 2.5%;
+    margin-left: 1.5%;
+
+   
+}
+
+.new_control_form_one
+{
+    
+    background-image:url('http://localhost:8012/Project/MyCode/images/yritys-paakuva%20-%20OFW.jpg');
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+
+    box-shadow:  5px 10px 10px 10px rgb(156, 156, 154) ;
+    border-radius: 25px;
+    padding: 15px; 
+    width: 90%;
+    height:80%; 
+    margin-top: 2.5%;
+    margin-left: 1.5%;
+
+   
+}
+.cat_right
+{
+    background-color:rgb(255, 255, 255);
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    float: center;
+    
+}
+
+.control_buttom_right_add
+{
+    height: 50px;
+    width:5%;
+    float: left;
+    margin-top: 2%;
+    color:black;
+}
+
+.view_data
+{
+    background-color:rgb(255, 255, 255);
+    width: 95%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right:10px;
+    
+   
+}
+.control_buttom_right_add
+{
+    height: 100px;
+    width: 50px;
+    
+    float: left;
+}
+
+table, th,td{
+    border: 1px solid rgb(8, 8, 8);
+    color: black;
+   
+    font-family: Arial;
+    
+    
+   
+ }
+
+ .control_menu_one
+{
+  height: 35px;
+  width:100%;
+  background-color: rgb(255, 255, 255);
+
+}
+
+
+ 
+
+
